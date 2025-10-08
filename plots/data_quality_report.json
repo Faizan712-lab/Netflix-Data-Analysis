@@ -1,0 +1,27 @@
+{
+  "row_count":8807,
+  "column_count":12,
+  "null_summary":{
+    "show_id":0,
+    "type":0,
+    "title":0,
+    "director":2634,
+    "cast":825,
+    "country":831,
+    "date_added":10,
+    "release_year":0,
+    "rating":4,
+    "duration":3,
+    "listed_in":0,
+    "description":0
+  },
+  "unique_types":[
+    "Movie",
+    "TV Show"
+  ],
+  "year_range":[
+    1925,
+    2021
+  ],
+  "duplicate_titles":0
+}
